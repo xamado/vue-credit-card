@@ -25,9 +25,9 @@
   },
   "author": "Thiago Malaquias <thiago.malaca@gmail.com>",
   "dependencies": {
-    "vue": "^2.1.0",
     "bourbon": "^4.2.7",
-    "payment": "^2.1.4"
+    "payment": "^2.1.4",
+    "vue": "^2.1.6"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
@@ -92,6 +92,7 @@
     "vue-style-loader": "^1.0.0",
     "vue-template-compiler": "^2.1.6",
     "webpack": "^1.13.2",
+    "webpack-cli": "^3.2.3",
     "webpack-dev-middleware": "^1.8.3",
     "webpack-hot-middleware": "^2.12.2",
     "webpack-merge": "^0.14.1"
